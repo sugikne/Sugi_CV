@@ -24,7 +24,7 @@ const About = ({ onNavigate }) => {
             <div className="size-36 rounded-3xl p-1 bg-gradient-to-tr from-primary to-blue-400 rotate-3 shadow-2xl shadow-primary/20">
               <div 
                 className="w-full h-full rounded-[20px] bg-slate-800 bg-cover bg-center border-2 border-background-dark -rotate-3" 
-                style={{ backgroundImage: 'url("Sugik.jpeg")' }}
+                style={{ backgroundImage: 'url("/sugik.jpeg")' }}
               ></div>
             </div>
             <div className="absolute -bottom-2 -right-2 size-10 bg-primary border-4 border-background-dark rounded-full flex items-center justify-center shadow-lg">
