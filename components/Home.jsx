@@ -30,7 +30,7 @@ const Home = ({ onNavigate }) => {
         <div className="relative z-10 w-full flex flex-col items-center text-center">
           <div 
             className="size-24 rounded-[32px] bg-slate-800 bg-cover bg-center border-2 border-primary/30 shadow-2xl shadow-primary/10 mb-8" 
-            style={{ backgroundImage: 'url("Sugik.jpeg")' }}
+            style={{ backgroundImage: 'url("/sugik.jpeg")' }}
           ></div>
 
           <div className="flex items-center gap-2 mb-4">

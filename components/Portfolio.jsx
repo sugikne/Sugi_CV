@@ -20,7 +20,7 @@ const PROJECTS = [
     description: 'Website resmi untuk layanan tour & travel di Nusa Penida.',
     longDescription: 'Website booking travel yang responsif, menampilkan paket tour menarik di Nusa Penida. Dibangun dengan fokus pada kecepatan akses dan kemudahan pengguna (User Experience) untuk meningkatkan konversi pemesanan tour secara online.',
     tags: ['HTML', 'React','JavaScript', 'UI/UX'],
-    imageUrl: 'hinusapenida.jpeg',
+    imageUrl: '/hinusapenida.jpeg',
     icon: 'explore',
     category: 'Web',
     demoUrl: 'https://hinusapenidatrip.com'
@@ -42,7 +42,7 @@ const PROJECTS = [
     description: 'Website katalog menu dan landing page untuk Kendi Cafe.',
     longDescription: 'Website estetik untuk Kendi Cafe yang menampilkan menu andalan, lokasi, dan suasana cafe. Desain minimalis yang selaras dengan brand identity cafe untuk menarik pelanggan milenial dan turis.',
     tags: ['HTML', 'React','JavaScript', 'UI/UX'],
-    imageUrl: 'Kendi Cafe.jpeg',
+    imageUrl: '/kendicafe.jpeg',
     icon: 'coffee',
     category: 'Web',
     demoUrl: 'https://kendi-cafe.vercel.app/'
